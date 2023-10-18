@@ -1,0 +1,371 @@
+{
+    "Leadership": [
+      {
+        "name": "Student Council President",
+        "scopes": ["School", "Class", "Group"],
+        "ranks": ["Participated", "Winner", "Runner-up"],
+        "engagements": ["Light", "Medium", "Heavy"],
+        "duration": {
+            "fromDate": "2022-04-01",
+            "toDate": "2022-08-01"
+          }
+      },
+      {
+        "name": "Debate Club Leader",
+        "scopes": ["School", "Class", "Group"],
+        "ranks": ["Participated", "Winner", "Runner-up"],
+        "engagements": ["Light", "Medium", "Heavy"],
+        "duration": {
+            "fromDate": "2022-04-01",
+            "toDate": "2022-08-01"
+          }
+      },
+      {
+        "name": "Team Captain (Sports)",
+        "scopes": ["School", "Class", "Group"],
+        "ranks": ["Participated", "Winner", "Runner-up"],
+        "engagements": ["Light", "Medium", "Heavy"],
+        "duration": {
+            "fromDate": "2022-04-01",
+            "toDate": "2022-08-01"
+          }
+      }
+      
+      
+    ],
+    "Sports": [
+        {
+          "name": "Basketball",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Soccer",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Tennis",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        
+        {
+          "name": "Track and Field",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        }
+        
+      ],
+
+
+
+    "Social Work": [
+      {
+        "name": "Volunteering at a Local Shelter",
+        "scopes": ["School", "Class", "Group"],
+        "ranks": ["Participated", "Winner", "Runner-up"],
+        "engagements": ["Light", "Medium", "Heavy"],
+        "duration": {
+            "fromDate": "2022-04-01",
+            "toDate": "2022-08-01"
+          }
+      },
+      {
+        "name": "Community Clean-Up",
+        "scopes": ["School", "Class", "Group"],
+        "ranks": ["Participated", "Winner", "Runner-up"],
+        "engagements": ["Light", "Medium", "Heavy"],
+        "duration": {
+            "fromDate": "2022-04-01",
+            "toDate": "2022-08-01"
+          }
+      },
+      {
+        "name": "Blood Donation Drive",
+        "scopes": ["School", "Class", "Group"],
+        "ranks": ["Participated", "Winner", "Runner-up"],
+        "engagements": ["Light", "Medium", "Heavy"],
+        "duration": {
+            "fromDate": "2022-04-01",
+            "toDate": "2022-08-01"
+          }
+      }
+      
+     
+      
+    ],
+    "Arts and Culture": [
+        {
+          "name": "Drama Club",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Painting Exhibition",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Cultural Dance Performance",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        }
+        
+       
+        
+      ],
+    "Science and Technology": [
+        {
+          "name": "Science Fair Project",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Robotics Competition",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Coding Club",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        }
+        
+       
+        
+      ],
+
+      "Debate and Public Speaking": [
+        {
+          "name": "National Debate Tournament",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Model United Nations",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Speech Competition",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        }
+        
+       
+        
+      ],
+      "Environmental Conservation": [
+        {
+          "name": "Tree Planting Initiative",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Recycling Program",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Wildlife Habitat Restoration",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        }
+        
+       
+        
+      ],
+      "Music and Dance": [
+        {
+          "name": "Choir Performance",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Ballet Recital",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Battle of the Bands",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        }
+        
+       
+        
+      ],
+   
+      "Community Service": [
+        {
+          "name": "Serving Meals at a Homeless Shelter",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Organizing Fundraisers",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Tutoring Local Students",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        }
+        
+       
+        
+      ],
+      "Academic Clubs": [
+        {
+          "name": "Math Club",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "Chess Club",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        },
+        {
+          "name": "History Club",
+          "scopes": ["School", "Class", "Group"],
+          "ranks": ["Participated", "Winner", "Runner-up"],
+          "engagements": ["Light", "Medium", "Heavy"],
+          "duration": {
+              "fromDate": "2022-04-01",
+              "toDate": "2022-08-01"
+            }
+        }
+        
+       
+        
+      ]
+   
+   
+   
+   
+   
+  }
+  
